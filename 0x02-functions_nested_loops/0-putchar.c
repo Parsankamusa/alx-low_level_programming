@@ -1,15 +1,17 @@
 #include "main.h"
+#include <stdio.h>
+
 
 /**
- *  Main - print putchar
- *
- *  Return: Always 0
+ * main - prints _putchar
+ *  Return: Alwys 0 (Success)
  */
 int main(void)
 {
 		int c;
 
 		char abe[] = "_putchar";
+
 		for (c = 0; c < 8; c++)
 		{
 			_putchar(abe[c]);
