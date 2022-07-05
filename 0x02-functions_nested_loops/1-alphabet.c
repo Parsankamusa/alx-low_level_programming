@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * print_alphabet - prints the alphabet, in lowercase, followed by a new line
@@ -8,14 +7,14 @@
  */
 void print_alphabet(void)
 {
-	char letter;
+	char alp;
 
-	letter = 'a';
+	alp = 'a';
 
-	while (letter <= 'z')
+	while (alp <= 'z')
 	{
-		_putchar(letter);
-		letter++;
+		_putchar(alp);
+		alp++;
 	}
 	_putchar('\n');
 	return (0);
