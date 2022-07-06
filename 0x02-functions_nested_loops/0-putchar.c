@@ -1,20 +1,21 @@
 #include "main.h"
 
-
 /**
- * main - prints _putchar
- * Return: Always 0 (Success)
+ * main - Entry Block
+ * Description: prints _putchar followed by a new line
+ * Return: 0
  */
 int main(void)
 {
-		int c;
+	char c[8] = "_putchar";
 
-		char abe[8] = "_putchar";
+	int i = 0;
 
-		for (c = 0; c < 8; c++)
-		{
-			_putchar(abe[c]);
-		}
-		_putchar('\n');
-		return (0);
+	while (i < 8)
+	{
+		_putchar(c[i]);
+		i++;
+	}
+	_putchar('\n');
+	return (0);
 }
