@@ -3,7 +3,7 @@
 
 /**
  * main - prints _putchar
- *  Return: Alwys 0 (Success)
+ * Return: Alwys 0 (Success)
  */
 int main(void)
 {
