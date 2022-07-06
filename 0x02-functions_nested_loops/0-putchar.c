@@ -3,13 +3,13 @@
 
 /**
  * main - prints _putchar
- * Return: Alwys 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 		int c;
 
-		char abe[] = "_putchar";
+		char abe[8] = "_putchar";
 
 		for (c = 0; c < 8; c++)
 		{
