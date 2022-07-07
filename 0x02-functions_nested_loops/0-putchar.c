@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main -  Main entry function to to body of code
  * Description: prints _putchar followed by a new line
