@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main -  Main entry function to to body of code
- * Description: prints _putchar followed by a new line
+ * main - Entry Block
+  *Description: prints _putchar followed by a new line
  * Return: 0
  */
 int main(void)
