@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include "main.h"
 /**
  * main - entry point
@@ -23,6 +24,8 @@ int main(void)
 	return (0);
 }
 =======
+=======
+>>>>>>> 8e54e903139f9c7fe1238bc60252aae4096daaed
 =======
 >>>>>>> 8e54e903139f9c7fe1238bc60252aae4096daaed
 =======
@@ -50,6 +53,9 @@ int main(void)
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e54e903139f9c7fe1238bc60252aae4096daaed
+=======
 >>>>>>> 8e54e903139f9c7fe1238bc60252aae4096daaed
 =======
 >>>>>>> 8e54e903139f9c7fe1238bc60252aae4096daaed
