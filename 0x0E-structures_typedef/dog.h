@@ -1,4 +1,4 @@
-ifndef FILE_DOG
+#ifndef FILE_DOG
 #define FILE_DOG
 
 /**
