@@ -1,7 +1,7 @@
 
 # C pro
 
-# Welcome
+# **Welcome**
 Thank you for visiting my C programming projects learnt during my software engineering program with ALX.
 
 # Table of Contents
@@ -10,7 +10,7 @@ Thank you for visiting my C programming projects learnt during my software engin
 * Projects
 * Acknowledgement
 
-# About
+# **About**
 This repository contains projects on the C programming language. The projects cover:
 
 * Compilation
@@ -28,7 +28,7 @@ This repository contains projects on the C programming language. The projects co
 * Makefiles
 * Sorting and search algorithms and more!
 
-# Requirements
+# **Requirements**
 * Ubuntu 14.04 LTS
 * gcc 4.8.4 (-Wall, -Werror, -Wextra, and -pedantic flags)
 
