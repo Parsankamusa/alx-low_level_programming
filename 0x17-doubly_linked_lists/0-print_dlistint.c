@@ -8,7 +8,7 @@
  */
 size_t print_dlistint(const dlistint_t *h)
 {
-	size_t element = 0;
+	size_t count = 0;
 	const dlistint_t *temp;
 
 	temp = h;
@@ -16,7 +16,7 @@ size_t print_dlistint(const dlistint_t *h)
 	{
 		printf("%d\n", temp->n);
 		temp = temp->next;
-		elememt++;
+		count++;
 	}
-	return (element);
+	return (count);
 }
